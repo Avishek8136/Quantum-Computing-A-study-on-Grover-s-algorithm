@@ -12,10 +12,10 @@ pip install -r requirements.txt
 
 ### 2. Configure IBM Quantum Credentials
 
-Your credentials are already in `.env`:
+Add your IBM Quantum credentials in `.env`:
 ```
-IBM_QUANTUM_TOKEN=701ZaN0gi5beJ7lI99WmJ2EwsR9zN5aM3rZ4kE8CphVR
-IBM_QUANTUM_INSTANCE=crn:v1:bluemix:public:quantum-computing:us-east:a/...
+IBM_QUANTUM_TOKEN=7....
+IBM_QUANTUM_INSTANCE=crn:.....
 ```
 
 ### 3. Run the Demo
